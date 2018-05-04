@@ -1,7 +1,9 @@
 # Serverless Plugin Notification
 
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
-[![npm version](https://badge.fury.io/js/serverless-plugin-notification.svg)](https://badge.fury.io/js/serverless-plugin-notification)
+[![npm version](https://badge.fury.io/js/serverless-plugin-notification-ojongerius.svg)](https://badge.fury.io/js/serverless-plugin-notification-ojongerius)
+
+**This is a copy of [serverless-plugin-notification](https://github.com/maasglobal/serverless-plugin-notification) to be able to have working webhooks**
 
 ## Requirement
 1. Serverless 1.x
