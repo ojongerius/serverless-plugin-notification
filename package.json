@@ -1,6 +1,6 @@
 {
-  "name": "serverless-plugin-notification",
-  "version": "1.3.0",
+  "name": "serverless-plugin-notification-ojongerius",
+  "version": "1.3.1",
   "description": "Plugin for serverless framework that notify framework actions to multiple platforms",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maasglobal/serverless-plugin-notification.git"
+    "url": "git+https://github.com/ojongerius/serverless-plugin-notification.git"
   },
   "author": "James Nguyen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maasglobal/serverless-plugin-notification/issues"
+    "url": "https://github.com/ojongerius/serverless-plugin-notification/issues"
   },
-  "homepage": "https://github.com/maasglobal/serverless-plugin-notification#readme",
+  "homepage": "https://github.com/ojongerius/serverless-plugin-notification#readme",
   "dependencies": {
     "request-promise-lite": "0.9",
     "bluebird": "^3.5.0"
